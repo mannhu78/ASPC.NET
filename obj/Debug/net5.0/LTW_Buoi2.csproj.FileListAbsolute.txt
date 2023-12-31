@@ -38,3 +38,5 @@ C:\Users\SinhVien\source\repos\LTW_Buoi2\LTW_Buoi2\obj\Debug\net5.0\ref\LTW_Buoi
 C:\Users\SinhVien\source\repos\LTW_Buoi2\LTW_Buoi2\obj\Debug\net5.0\LTW_Buoi2.pdb
 C:\Users\SinhVien\source\repos\LTW_Buoi2\LTW_Buoi2\obj\Debug\net5.0\LTW_Buoi2.genruntimeconfig.cache
 C:\Users\SinhVien\source\repos\LTW_Buoi2\LTW_Buoi2\obj\Debug\net5.0\LTW_Buoi2.csproj.CopyComplete
+C:\Users\SinhVien\source\repos\LTW_Buoi2\LTW_Buoi2\obj\Debug\net5.0\Razor\Views\Index.cshtml.g.cs
+C:\Users\SinhVien\source\repos\LTW_Buoi2\LTW_Buoi2\obj\Debug\net5.0\Razor\Views\Sutdent.cshtml.g.cs
